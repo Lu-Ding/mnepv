@@ -11,6 +11,9 @@ by Zhaojun Bai and Ding Lu, 2022.
 (Manuscript available at: https://doi.org/10.48550/arXiv.2211.05179 )
 
 
+this is math
+\( f(x)=y \)
+
 
 ## Contents
 
