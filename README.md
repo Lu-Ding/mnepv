@@ -6,10 +6,10 @@ Dated 		03-01-2023
 This folder contains testing codes and data for the monotone eigenvector
 dependent nonlinear eigenvalue problems (mNEPv), as used in the paper:
 
-	"Variational Characterization of Monotone Nonlinear Eigenvector Problems
-	and Geometry of Self-consistent Field Iteration"
-	by Zhaojun Bai and Ding Lu, 2022.
-	(Manuscript available at: https://doi.org/10.48550/arXiv.2211.05179 )
+*Variational Characterization of Monotone Nonlinear Eigenvector Problems
+and Geometry of Self-consistent Field Iteration*,
+by Zhaojun Bai and Ding Lu, 2022.
+(Manuscript available at: https://doi.org/10.48550/arXiv.2211.05179 )
 
 
 
@@ -34,5 +34,7 @@ comparison is deactivated by default. To use it please first download
 and install the Manopt available at https://www.manopt.org/
 
 
-## Contact 	Ding.Lu@uky.edu  
+## Contact 	
+
+Ding.Lu@uky.edu  
 
