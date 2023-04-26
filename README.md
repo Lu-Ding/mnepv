@@ -33,5 +33,7 @@ comparison is deactivated by default. To use it please first download
 and install the Manopt available at https://www.manopt.org/
 
 
-## Contact 	Ding.Lu@uky.edu 
+## Contact 	
+
+For question, please contact Ding.Lu@uky.edu 
 
