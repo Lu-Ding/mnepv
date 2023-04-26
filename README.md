@@ -1,11 +1,7 @@
-# mNEPv 
-
-Monotone Nonliear Eigenvector Problems
+# mNEPv - Monotone Nonliear Eigenvector Problems
 
 Dated 		03-01-2023
 
-
-## Contents
 This folder contains testing codes and data for the monotone eigenvector
 dependent nonlinear eigenvalue problems (mNEPv), as used in the paper:
 
