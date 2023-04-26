@@ -16,13 +16,13 @@ by Zhaojun Bai and Ding Lu, 2022.
 ## Main files
 
 - mNEPv solver
-	. scf:			SCF iteration with and without local acceleration
+	- scf:			SCF iteration with and without local acceleration
 
 - Examples 
-	. numrd2d:  	mNEPv from numerical radius computation  
-	. dhdae1: 		mNEPv from distance problems of linear dHDAE systems
-	. dhdae2:		mNEPv from distance problems of quadratic dHDAE systems
-	. tensorappr:  	mNEPv from Tensor rank-1 approximation
+	- numrd2d:  	mNEPv from numerical radius computation  
+	- dhdae1: 		mNEPv from distance problems of linear dHDAE systems
+	- dhdae2:		mNEPv from distance problems of quadratic dHDAE systems
+	- tensorappr:  	mNEPv from Tensor rank-1 approximation
 
 - Other files: numrange.m (plot numerical range), goescf (geometry of SCF), and data files.
 
