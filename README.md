@@ -35,5 +35,5 @@ and install the Manopt available at https://www.manopt.org/
 
 ## Contact 	
 
-For question, please contact Ding.Lu@uky.edu 
+For questions, please contact Ding.Lu@uky.edu 
 
