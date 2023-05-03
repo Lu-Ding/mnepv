@@ -16,7 +16,7 @@ A Monotone Nonlinear Eigenvector problems (mNEPv) is defined as
 $$H(x) x = \lambda x,$$
 where $H(x)$ is a Hermitian matrix-valued function of the form 
 $$H(x):= \sum_{i=1}^m h_i(x^HA_ix) A_i,$$
-and $A_1,\dots,A_m$ are $n$-by-$ n$ Hermitian matrices, 
+and $A_1,\dots,A_m$ are $n$ by $n$ Hermitian matrices, 
 $h_1,\dots,h_m$ are differentiable and non-decreasing functions over $\mathbb R$. 
 The goal is to find a unit-length vector $x\in\mathbb C^n$ and a scalar $\lambda\in\mathbb R$ 
 satisfying $H(x)x=\lambda x$ and, furthermore, $\lambda (= x^H H(x) x)$ is the largest eigenvalue of $H(x)$.
