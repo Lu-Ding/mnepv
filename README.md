@@ -37,7 +37,7 @@ This package contains all the example data and routines used in the study to fac
 	- dhdae2.m:			mNEPv from distance problems of quadratic dHDAE systems
 	- tensorappr.m:  	mNEPv from Tensor rank-1 approximation
 
-- Other files: numrange.m (plot numerical range), goescf:.m (geometry of SCF), and data files.
+- Other files: numrange.m (plot numerical range), goescf.m (geometry of SCF), and data files.
 
 
 ## External
